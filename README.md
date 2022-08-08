@@ -30,8 +30,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Github](https://github.com/Two-Zer00/bookmark-landing-page-master)
+- Live Site URL: [Live Site](https://two-zer00.github.io/bookmark-landing-page-master/)
 
 ## My process
 
